@@ -1,0 +1,72 @@
+.ending_of_navbar a{
+    padding: 0 10px;
+    color: black;
+}
+.dropdown{
+    display: inline-flex;
+    background: none;
+    background-color: none;
+    
+
+}
+.navbar-brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10px;
+}
+.navbar-brand p{
+    padding-left:10px;
+    
+    margin-top: 15px;
+}
+.dropdown-menu{
+    background:none;
+}
+.nav-link:hover{
+    background-color: darkgrey;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: black;
+    font-family: sans-serif;
+    font-weight:bold;
+    /* font-size: 20px; */
+} 
+.navbar-nav .nav-item .nav-link:active{
+    color: cornflowerblue;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: lawngreen;
+}
+.carousel-item{
+    width:100%;
+    height: 550px;
+}
+.carousel-item img{
+    height: 100%;
+}
+.carousel-item h5{
+    font-size: 80px;
+    color: aliceblue;
+}
+.col-md-3 mt-5{
+    /* height: 80%; */
+    width: 80%;
+}
+.gly_img img{
+   height: 200px;
+}
+.dropdown-menu{
+    background-color: aliceblue;
+}
+.dropdown-menu li{
+    padding: 10px 30px;
+}
+.dropdown-menu li a{
+    font-size: 15px;
+}
+
+nav{
+    background-color:lightcyan;
+}
